@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexaverse&show_icons=true&locale=en" alt="alexaverse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexaverse&" alt="alexaverse" /></p>
+
+![snake gif](https://github.com/Alexaverse/Alexaverse/blob/output/snake.svg)
+
