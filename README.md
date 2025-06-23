@@ -8,9 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA ,node js and express js**
-
-- 💬 Ask me about **Python, HTML and CSS**
+- 🌱 I’m currently learning **DSA and MERN STACK**
 
 - 📫 How to reach me **anushkaa22kumari@gmail.com**
 
